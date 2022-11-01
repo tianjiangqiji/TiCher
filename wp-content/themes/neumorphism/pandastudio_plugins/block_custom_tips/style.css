@@ -1,0 +1,26 @@
+.pandastudio-custom-tips {
+	position: relative;
+	padding: 6px 20px;
+	border-radius: 10px;
+	margin-bottom: 20px;
+}
+.pandastudio-custom-tips p {
+	margin: 5px 0 !important;
+}
+.pandastudio-custom-tips .tipIcon {
+	background: inherit;
+	border-radius: 50%;
+	color: inherit;
+	font-family: "Font Awesome 5 Free";
+	font-weight: 900;
+	font-size: 12px;
+	position: absolute;
+	text-align: center;
+	width: 24px;
+	height: 24px;
+	line-height: 24.5px;
+	left: -12px;
+	top: -12px;
+	box-shadow: 0 0 0 2.5px #fff;
+	text-shadow: inherit;
+}
