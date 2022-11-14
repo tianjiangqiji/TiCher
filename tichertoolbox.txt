@@ -1,1 +1,1 @@
-${{ secrets.PUSH_PLUS_TOKEN}}
+${{ secrets.CODE}}
